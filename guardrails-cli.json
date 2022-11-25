@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/guardrailsio/guardrails-cli/releases/download/v0.1.0/guardrails_v0.1.0_windows_i386.zip",
+            "bin": [
+                "guardrails-cli.exe"
+            ],
+            "hash": "505a2ad31086e4bc38002a429d9ad73c4dbca4f293ddfd5c22ebb38ca4322a76"
+        },
+        "64bit": {
+            "url": "https://github.com/guardrailsio/guardrails-cli/releases/download/v0.1.0/guardrails_v0.1.0_windows_x86_64.zip",
+            "bin": [
+                "guardrails-cli.exe"
+            ],
+            "hash": "969cbd5e9e2f49fad118858da3f3d7af9ae757792a36078ab16ca2678293c119"
+        }
+    },
+    "homepage": "https://www.guardrails.io/",
+    "license": "Apache-2.0"
+}
