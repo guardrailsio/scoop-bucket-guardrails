@@ -6,14 +6,14 @@
             "bin": [
                 "guardrails-cli.exe"
             ],
-            "hash": "be465a48da32f4ba523f248c8d30e4b2428a37c21a9ec7aab4c3254d30a4152f"
+            "hash": "4cf8e10b07ca1ea7e298cb9efc3b5c89442dc46b5ea768be5a970597f8e5092e"
         },
         "64bit": {
             "url": "https://github.com/guardrailsio/guardrails-cli/releases/download/v0.1.0/guardrails_v0.1.0_windows_x86_64.zip",
             "bin": [
                 "guardrails-cli.exe"
             ],
-            "hash": "1a6f216307da9ab6f0ad459220bb92e192b828822c561cc472618a251364845a"
+            "hash": "ae8d0989326bbb2994b090335b94e284b801a44d825c3f64510dcb973d5261d3"
         }
     },
     "homepage": "https://www.guardrails.io/",
